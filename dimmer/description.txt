@@ -1,0 +1,4 @@
+I created a web server that was used to control an LED with adjustable birghtness.
+
+- A simple web server was created making use of the Wi-Fi module on the ESP-32.
+- The dimming feature was achieved by using pusle wave modulation (PWM).
